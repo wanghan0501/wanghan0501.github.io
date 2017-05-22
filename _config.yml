@@ -34,8 +34,11 @@ ga:
 # Build settings
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
+# Markdown Processors
+kramdown:    # Better to turn on recognition of Github Flavored Markdown
+  input: GFM
 highlighter: rouge
-mathjax: disabled
+mathjax: enabled
 sass:
   style: compressed
 
