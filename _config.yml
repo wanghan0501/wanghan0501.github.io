@@ -21,8 +21,8 @@ instagram:
 linkedin: wanghan0501
 
 # avatar and Favicon
-avatar: images/avatar.jpg
-favicon: images/site-favicon.ico
+avatar: https://raw.githubusercontent.com/wanghan0501/wanghan0501.github.io/master/images/avatar.jpg
+favicon: https://raw.githubusercontent.com/wanghan0501/wanghan0501.github.io/master/images/site-favicon.ico
 
 # disqus config
 disqus:
