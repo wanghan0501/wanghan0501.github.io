@@ -4,7 +4,7 @@ email: caesar.w.h.1996@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   这是王晗的博客。王晗，四川大学吴玉章学院，数据科学家道路践行者，记录生活学习成长的点点滴滴，不定期更新。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://wanghan0501.github.io # the base hostname & protocol for your site
+url: http://data-science.vip # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Han Wang
 
@@ -14,10 +14,8 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: 
 weibo: wanghan0501
 github: wanghan0501
-instagram: 
 linkedin: wanghan0501
 
 # avatar and Favicon
@@ -31,7 +29,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-99670312-1
-  url: wanghan0501.github.io
+  url: http://data-science.vip
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
