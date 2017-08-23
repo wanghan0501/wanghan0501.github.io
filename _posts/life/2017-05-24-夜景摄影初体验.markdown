@@ -13,8 +13,8 @@ categories: 生活
 
 虽说围合夜景很常见，但是很少以一种审视的眼光去看待，大概是因为稀疏寻常了吧。
 
-![夜景]({{ site.baseurl }}/images/life/江安围合夜景.jpeg)  
-[原图下载]({{ site.baseurl }}/images/life/江安围合夜景.jp2)
+![夜景]({{ site.baseurl }}/images/life/江安围合夜景.jp2)  
+[原图下载]({{ site.baseurl }}/images/life/江安围合夜景.jpeg)
 
 此间试用种种曝光参数，渐渐对参数有了一个了解，也大概能感觉到那种将景色记录下来的欣喜。
 
