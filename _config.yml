@@ -1,6 +1,6 @@
 # Site settings
 title: 王晗的博客
-email: caesar.w.h.1996@gmail.com
+email: hanwang.0501@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   这是王晗的博客。王晗，四川大学吴玉章学院，数据科学家道路践行者，记录生活学习成长的点点滴滴，不定期更新。
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -25,11 +25,11 @@ favicon: https://raw.githubusercontent.com/wanghan0501/wanghan0501.github.io/mas
 
 # disqus config
 disqus:
-  shortname: data-science-vip
+  shortname: http-wanghan0501-github-io
 
 # google analytics config
 ga:
-  id: UA-99670312-1
+  id: UA-107379265-1
   url: http://data-science.vip
 
 # Build settings

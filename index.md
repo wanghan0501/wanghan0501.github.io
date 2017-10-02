@@ -11,7 +11,8 @@ layout: post
 * 热爱数据分析的程序猿
 * 忙忙碌碌的程序猿
 * 单身狗的程序猿
+* PhD Candidate
 
 ## Contact Me
 
-如需联系我，可发送邮件至[caesar.w.h.1996@gmail.com](mailto:caesar.w.h.1996@gmail.com)
+如需联系我，可发送邮件至[hanwang.0501@gmail.com](mailto:hanwang.0501@gmail.com)
