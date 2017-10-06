@@ -51,7 +51,8 @@ source ~/.zshrc
 ```
 重置brew.git:
 
-cd "$(brew --repo)"git remote set-url origin https://github.com/Homebrew/brew.git
+cd "$(brew --repo)" 
+git remote set-url origin https://github.com/Homebrew/brew.git
 
 重置homebrew-core.git:
 	
