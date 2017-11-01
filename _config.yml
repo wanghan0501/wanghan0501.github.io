@@ -46,7 +46,7 @@ sass:
 
 # Jekyll Plugin
 # https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
