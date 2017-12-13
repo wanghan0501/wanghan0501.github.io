@@ -1,0 +1,42 @@
+---
+layout: post
+title: 让iTerm2支持拖拽上传文件和右键下载文件
+keywords: iTerm2
+categories: 工具
+---
+
+
+## 条件准备
+- [iTerm2 version 3 nightly builds](https://iterm2.com/nightly/latest)
+
+##动手 
+需要在你自己的机器和想通过`ssh`远程连接的机器上都安装`shell integration`
+
+##自动安装
+
+```
+curl -L https://iterm2.com/misc/install_shell_integration.sh | bash
+```
+2个机器都安装好后，现在你就可以体验拖拽上传文件和右键下载文件了
+
+## 常见问题
+
+### `Download with scp` 按钮是灰色的
+
+解决方案:
+
+远程机器的`hostname`不对，默认是`localhost`, 需要设置为远程机器的`ip`, 可以在你远程机器的`shell`登录脚本中通过如下命令设置环境变量
+
+```
+export iterm2_hostname=你远程机器的ip
+```
+记得这行命令要在
+
+```
+source "${HOME}/.iterm2_shell_integration.`basename $SHELL`"
+```
+之前哦
+
+## 总结
+
+`iTerm2` 必须为`iTerm2 version 3`
