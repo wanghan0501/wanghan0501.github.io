@@ -9,10 +9,10 @@ categories: 工具
 ## 条件准备
 - [iTerm2 version 3 nightly builds](https://iterm2.com/nightly/latest)
 
-##动手 
+## 动手 
 需要在你自己的机器和想通过`ssh`远程连接的机器上都安装`shell integration`
 
-##自动安装
+## 自动安装
 
 ```
 curl -L https://iterm2.com/misc/install_shell_integration.sh | bash
