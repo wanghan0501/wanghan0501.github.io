@@ -2,12 +2,15 @@
 <script src="{{ "/assets/js/jquery.pjax.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/nprogress.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript"
+src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 
 {% if site.mathjax == 'enabled' %}
 <script type="text/javascript"
    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-<script type="text/x-mathjax-config">
+<!-- <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
@@ -31,7 +34,7 @@
       });
     }
 
-  </script>
+  </script> -->
 
 {% endif %}
 
