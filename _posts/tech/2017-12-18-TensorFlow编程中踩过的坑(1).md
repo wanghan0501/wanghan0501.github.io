@@ -15,13 +15,19 @@ categories: 技术
 	`AdadeltaOptimizer`是`tf.train`包中的一个优化器，它可以**自动调整学习率**。最开始的时候我看到这个优化器觉得很厉害的一个，结果使用后发现loss根本不下降，本来还以为是用法用错了呢，几经周折，最后才发现是学习率设置的问题。
 	
 	```python
-	# set optimizeroptimizer = tf.train.AdadeltaOptimizer()# set train_optrain_op = slim.learning.create_train_op(loss, optimizer)
+	# set optimizer
+optimizer = tf.train.AdadeltaOptimizer()
+# set train_op
+train_op = slim.learning.create_train_op(loss, optimizer)
 	```
 	
 	`AdadeltaOptimizer`优化器默认的`learning_rate=0.001`，非常的小，导致梯度下降速度非常慢，最后的解决方案是：提高学习率
 	
 	```python
-	# set optimizeroptimizer = tf.train.AdadeltaOptimizer(learning_rate=1)# set train_optrain_op = slim.learning.create_train_op(loss, optimizer)
+	# set optimizer
+optimizer = tf.train.AdadeltaOptimizer(learning_rate=1)
+# set train_op
+train_op = slim.learning.create_train_op(loss, optimizer)
 	```
 
 2. `batch_norm_decay`参数设置的问题
@@ -51,4 +57,5 @@ categories: 技术
 	- slim源代码地址: [https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 - AdadeltaOptimizer: 官方API文档地址: [https://www.tensorflow.org/versions/master/api_docs/python/tf/train/AdadeltaOptimizer](https://www.tensorflow.org/versions/master/api_docs/python/tf/train/AdadeltaOptimizer)
 
-- Batch Normalization: Accelerating Deep Network Training byReducing Internal Covariate Shift: [http://proceedings.mlr.press/v37/ioffe15.html](http://proceedings.mlr.press/v37/ioffe15.html)
+- Batch Normalization: Accelerating Deep Network Training by
+Reducing Internal Covariate Shift: [https://proceedings.mlr.press/v37/ioffe15.html](https://proceedings.mlr.press/v37/ioffe15.html)

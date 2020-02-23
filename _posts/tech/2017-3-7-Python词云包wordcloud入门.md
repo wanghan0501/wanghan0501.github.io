@@ -78,7 +78,7 @@ with this eBook or online at www.gutenberg.org
 text = open(path.join(d, 'alice.txt')).read()
 
 # read the mask / color image
-# taken from http://jirkavinse.deviantart.com/art/quot-Real-Life-quot-Alice-282261010
+# taken from https://jirkavinse.deviantart.com/art/quot-Real-Life-quot-Alice-282261010
 # 设置背景图片
 alice_coloring = imread(path.join(d, "alice_color.png"))
 
