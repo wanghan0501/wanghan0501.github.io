@@ -2,40 +2,8 @@
 <script src="{{ "/assets/js/jquery.pjax.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/nprogress.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
-<script type="text/javascript"
-src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 {% if site.mathjax == 'enabled' %}
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-<!-- <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-        processEscapes: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-      }
-    });
-      // MathJax.Hub.Queue(function() {
-      //     var all = MathJax.Hub.getAllJax(), i;
-      //     for(i=0; i < all.length; i += 1) {
-      //         all[i].SourceElement().parentNode.className += ' has-jax';
-      //     }
-      // });
-    window.onload= function(){
-      window.location.refresh();
-      MathJax.Hub.Queue(function() {
-          var all = MathJax.Hub.getAllJax(), i;
-          for(i=0; i < all.length; i += 1) {
-              all[i].SourceElement().parentNode.className += ' has-jax';
-          }
-      });
-    }
-
-  </script> -->
-
+<script src="{{ "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" | prepend: site.baseurl }}"></script>
 {% endif %}
 
 {% if site.ga %}

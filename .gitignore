@@ -7,6 +7,7 @@ Gemfile
 Gemfile.lock
 _posts/.MWebMetaData/
 .jekyll-metadata
+.jekyll-cache/
 start
 node_modules/
 **/_posts/chatting/2017-10-2-痛彻心扉的保研心得.md
