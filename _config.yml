@@ -9,10 +9,10 @@
 title                    : "王晗"
 description              : "AI辅助药物发现"
 repository               : "wanghan0501/wanghan0501.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  LcrqNBsAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  107379265 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
@@ -27,7 +27,7 @@ author:
   location         : "北京"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=LcrqNBsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=LcrqNBsAAAAJ"
   email            : "wanghan0501@foxmail.com"
   researchgate     : "hhttps://www.researchgate.net/profile/Han_Wang42?ev=hdr_xprf"
   uri              : 
