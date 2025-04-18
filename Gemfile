@@ -14,7 +14,7 @@ gem "github-pages", group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+gem "jekyll"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
