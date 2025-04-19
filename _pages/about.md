@@ -36,7 +36,7 @@ redirect_from:
 
 # 📝 论文专利
 
-## 论文
+## 📜 论文
 ---
 - Wei Feng, Lvwei Wang, Zaiyun Lin, Yanhao Zhu, `Han Wang`, Jianqiang Dong, Rong Bai, Huting Wang, Jielong Zhou, Wei Peng, others. Generation of 3D molecules in pockets via a language model[J]. *Nature Machine Intelligence*, 2024, 6(1): 62-73. [[网页]](https://doi.org/10.1038/s42256-023-00775-6)
 
@@ -50,7 +50,7 @@ redirect_from:
 
 - `Han Wang`, Junjie Hu, Ying Song, Lei Zhang, Sen Bai, Zhang Yi. Multi-view fusion segmentation for brain glioma on CT images[J]. *Applied Intelligence*, 2022, 52(7), 7890-7904. [[网页]](https://doi.org/10.1007/s10489-021-02784-7)
 
-## 专利
+## 💡 专利
 ---
 - `王晗`, 冯伟, 黄博, 周文彪, 肖洋, 朱彦浩, 董建强. 分子预测模型的训练方法及蛋白质口袋的处理方法: 北京市, CN118824355B[P]. 2025-02-14 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MMF0JaU5HdQD6VN5jWHWFnDTGt7hX-Ziqq93840HbLsTRcBGMVHd6BqKkW6kxDoW6F_5Wu2GAvRuEK32-Jl4fQcf5AC1bPERVqWCAY4NieIrn5IQAAEaoVaOZE913rOMnh4bhyIlhebsLt6-D0CFKU-gWLeVTZ8FRtpFRUJk6aF4A==&uniplatform=NZKPT&language=CHS)
 
