@@ -18,7 +18,7 @@ jobs:
     - name: Run
       run: |
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
+        pip3 install -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple -r requirements.txt
         python3 main.py
         cd ./results
         git init
