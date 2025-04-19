@@ -48,7 +48,7 @@ redirect_from:
 
 - `Han Wang`, Haixian Zhang, Junjie Hu, Ying Song, Sen Bai, Zhang Yi. DeepEC: An error correction framework for dose prediction and organ segmentation using deep neural networks[J]. *International Journal of Intelligent Systems*, 2020, 35(12), 1987-2008. [[网页]](https://doi.org/10.1002/int.22280)
 
-- `Han Wang`,, Junjie Hu, Ying Song, Lei Zhang, Sen Bai, Zhang Yi. Multi-view fusion segmentation for brain glioma on CT images[J]. *Applied Intelligence*, 2022, 52(7), 7890-7904. [[网页]](https://doi.org/10.1007/s10489-021-02784-7)
+- `Han Wang`, Junjie Hu, Ying Song, Lei Zhang, Sen Bai, Zhang Yi. Multi-view fusion segmentation for brain glioma on CT images[J]. *Applied Intelligence*, 2022, 52(7), 7890-7904. [[网页]](https://doi.org/10.1007/s10489-021-02784-7)
 
 ## 专利
 ---
