@@ -12,11 +12,11 @@ repository               : "wanghan0501/wanghan0501.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  107379265 # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-TKTGW3J9YP # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : 92C9DD2C3625AE8A192D26EE534AD966 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
