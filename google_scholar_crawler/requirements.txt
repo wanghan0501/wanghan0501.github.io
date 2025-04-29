@@ -1,2 +1,3 @@
 jsonpickle
 scholarly
+httpx[socks]
