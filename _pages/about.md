@@ -28,6 +28,7 @@ redirect_from:
 <span class='anchor' id='-educations'></span>
 
 # 🎓 教育经历
+- *2025.04 - *, <a href="https://www.bjmu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 北京大学 药学院, 北京海淀, 博士后 
 - *2019.09 - 2022.12*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 计算机学院, 四川成都, 博士 
 - *2018.09 - 2019.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 计算机学院, 四川成都, 硕士
 - *2014.09 - 2018.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 软件学院 & 吴玉章荣誉学院, 四川成都, 本科
