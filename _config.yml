@@ -9,7 +9,7 @@
 title                    : "王晗"
 description              : "AI辅助药物发现"
 repository               : "wanghan0501/wanghan0501.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  G-TKTGW3J9YP # get google_analytics_id from https://analytics.google.com/analytics/
