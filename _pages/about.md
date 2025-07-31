@@ -39,17 +39,17 @@ redirect_from:
 
 ## 📜 论文
 ---
-- Wei Feng, Lvwei Wang, Zaiyun Lin, Yanhao Zhu, `Han Wang`, Jianqiang Dong, Rong Bai, Huting Wang, Jielong Zhou, Wei Peng, others. Generation of 3D molecules in pockets via a language model[J]. *Nature Machine Intelligence*, 2024, 6(1): 62-73. [[网页]](https://doi.org/10.1038/s42256-023-00775-6)
+- Wei Feng<sup>#</sup>, Lvwei Wang<sup>#</sup>, Zaiyun Lin<sup>#</sup>, Yanhao Zhu<sup>#</sup>, `Han Wang`, ianqiang Dong, Rong Bai, Huting Wang, Jielong Zhou, Wei Peng, Bo Huang<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>. Generation of 3D molecules in pockets via a language model[J]. *Nature Machine Intelligence*, 2024, 6(1): 62-73. [[网页]](https://doi.org/10.1038/s42256-023-00775-6)
 
-- `Han Wang`, Dan Jiang, Haixian Zhang, Yujue Wang, Li Yang, David J Kerr, Zhang, Yi. An explainable coarse-to-fine survival analysis method on multi-center whole slide images[J]. *IEEE Transactions on Artificial Intelligence*, 2023, 5(3): 1316-1327. [[网页]](https://doi.org/10.1109/TAI.2023.3285855)
+- `Han Wang`<sup>#</sup>, Dan Jiang<sup>#</sup>, Haixian Zhang, Yujue Wang, Li Yang,<sup>\*</sup> David J Kerr<sup>\*</sup>, Zhang, Yi<sup>\*</sup>. An explainable coarse-to-fine survival analysis method on multi-center whole slide images[J]. *IEEE Transactions on Artificial Intelligence*, 2023, 5(3): 1316-1327. [[网页]](https://doi.org/10.1109/TAI.2023.3285855)
 
-- `Han Wang`, Fasheng Yi, Jingling Wang, Zhang Yi, Haixian Zhang. RECISTSup: Weakly-supervised Lesion Volume Segmentation using RECIST Measurement[J]. *IEEE Transactions on Medical Imaging*, 2022, 41(7), 1849-1861. [[网页]](https://doi.org/10.1109/TMI.2022.3149168)
+- `Han Wang`<sup>#</sup>, Fasheng Yi<sup>#</sup>, Jingling Wang, Zhang Yi, Haixian Zhang<sup>\*</sup>. RECISTSup: Weakly-supervised Lesion Volume Segmentation using RECIST Measurement[J]. *IEEE Transactions on Medical Imaging*, 2022, 41(7), 1849-1861. [[网页]](https://doi.org/10.1109/TMI.2022.3149168)
 
-- `Han Wang`, Hao Huang, Jingling Wang, Mingtian Wei, Zhang Yi, Ziqiang Wang, Haixian Zhang. An intelligent system of pelvic lymph node detection[J]. *International Journal of Intelligent Systems*, 2021, 36(8), 4088-4116. [[网页]](https://doi.org/10.1002/int.22452)
+- `Han Wang`<sup>#</sup>, Hao Huang, Jingling Wang, Mingtian Wei, Zhang Yi, Ziqiang Wang<sup>\*</sup>, Haixian Zhang<sup>\*</sup>. An intelligent system of pelvic lymph node detection[J]. *International Journal of Intelligent Systems*, 2021, 36(8), 4088-4116. [[网页]](https://doi.org/10.1002/int.22452)
 
-- `Han Wang`, Haixian Zhang, Junjie Hu, Ying Song, Sen Bai, Zhang Yi. DeepEC: An error correction framework for dose prediction and organ segmentation using deep neural networks[J]. *International Journal of Intelligent Systems*, 2020, 35(12), 1987-2008. [[网页]](https://doi.org/10.1002/int.22280)
+- `Han Wang`<sup>#</sup>, Haixian Zhang, Junjie Hu, Ying Song, Sen Bai<sup>\*</sup>, Zhang Yi<sup>\*</sup>. DeepEC: An error correction framework for dose prediction and organ segmentation using deep neural networks[J]. *International Journal of Intelligent Systems*, 2020, 35(12), 1987-2008. [[网页]](https://doi.org/10.1002/int.22280)
 
-- `Han Wang`, Junjie Hu, Ying Song, Lei Zhang, Sen Bai, Zhang Yi. Multi-view fusion segmentation for brain glioma on CT images[J]. *Applied Intelligence*, 2022, 52(7), 7890-7904. [[网页]](https://doi.org/10.1007/s10489-021-02784-7)
+- `Han Wang`<sup>#</sup>, Junjie Hu, Ying Song, Lei Zhang, Sen Bai<sup>\*</sup>, Zhang Yi<sup>\*</sup>. Multi-view fusion segmentation for brain glioma on CT images[J]. *Applied Intelligence*, 2022, 52(7), 7890-7904. [[网页]](https://doi.org/10.1007/s10489-021-02784-7)
 
 ## 💡 专利
 ---
