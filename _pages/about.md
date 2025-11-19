@@ -75,6 +75,10 @@ redirect_from:
 
 - 章毅, 吕青, 张蕾, 戚晓峰, 皮勇, 杜正贵, 刘鹏程, 王瑶, 王璟玲, 李季兰, `王晗`, 庞博. 一种乳腺癌检测方法及装置: 四川, CN108230311A[P]. 2018-06-29 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MMYZA88RmH76ZxQLDNeFjFQTUuvthq07RH_QO5P1edo7_HorEZt50RMy9g7hL6wrGa-8ROOTFg5AQeFo-dNHSbHeCzDt7NufQYrcXY9Vmd_pKZJxb0_Eo6Q3A0FDK9kBBBKGxefmoPxlD1SDC0574te6BfI9S90vYU=&uniplatform=NZKPT&language=CHS)
 
+<span class='anchor' id='-fund'></span>
+
+# 💰 基金项目
+- *2021.04-2023.03*, 结直肠癌淋巴结转移人工智能辅助诊断系统研发, 四川省科技创新创业苗子工程, 8万元, `主持`.
 
 <span class='anchor' id='-honors'></span>
 
@@ -86,13 +90,9 @@ redirect_from:
 - *2016.09* 获得 第二届四川省”互联网+“大学生创新创业大赛 `金奖`
 - *2015.11* 获得 2014-2015学年四川大学优秀学生干部
 
-<span class='anchor' id='-fund'></span>
-
-# 💰 基金项目
-- *2021.04-2023.03*, 结直肠癌淋巴结转移人工智能辅助诊断系统研发, 四川省科技创新创业苗子工程, 8万元, `主持`.
-
 <span class='anchor' id='-professions'></span>
 
 # 💻 工作经历
 - *2023.01 - 2025.03*, 北京望石智慧科技有限公司, 北京
+
 
