@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='aboutme'></span>
 
-本硕博均毕业于四川大学，师从计算机学院章毅教授，现为北京大学药学院在站博士后，合作导师为刘振明研究员。包括合著，我已经发表 10+ 篇学术论文
+本硕博均毕业于四川大学，师从计算机学院章毅教授，现为北京大学药学院在站博士后，合作导师为刘振明研究员。包括合著，已经发表 10+ 篇学术论文
  <a href='https://scholar.google.com/citations?user=LcrqNBsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，申请并获授权 10+ 项国家发明专利。
 
 我的研究领域包括：
@@ -97,6 +97,7 @@ redirect_from:
 
 # 💻 工作经历
 - *2023.01 - 2025.03*, 北京望石智慧科技有限公司, 北京
+
 
 
 
