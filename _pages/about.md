@@ -73,10 +73,6 @@ redirect_from:
 
 - 章毅, `王晗`, 何涛, 王建勇, 周尧, 皮勇, 张蕾, 郭际香. 乳腺超声检查图像分级方法、装置、设备和存储介质: 四川省, CN114219807B[P]. 2022-07-12 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MNUWhzhdNV-KFQBaXQJ0rGDdVvvaYlZl7dfEVJD2kF0aXBnhNi_sbTZg8Cdw__WLErLLnHE8i_6SrH4DZJ8iwr5yHsdhFB4X0JovQV4y6xOqZoK-UfvB8Nxu6HtQ6SGbeyRI8a6fVkMra3GU_glclSCeeZsg55IFdpYYd9KrN05-Q==&uniplatform=NZKPT&language=CHS)
 
-- 王自强, 章毅, 魏明天, `王晗`, 黄昊, 张海仙, 杨旭洋, 王璟玲, 陈帅华, 黄月瑶. 一种面向腹部CT医学图像的标注及教学辅助系统: 四川省, CN112270975A[P]. 2021-01-26 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MMtHQ9vls3-mGoAoObpxcxHGm104F9NOiFOc-Iep0QAEMzLZDT72DhJIpGg5RypAe_ulKdDQaWcAwaC3fq_z4IfGOY_DYXSVeR7dFcHCFTIcIiYRllys7IbqZG6X1KmPhv-KSrywT7O6ByGnGTlR4Tu1PgkD9ncuiiS1lKCOOeV8A==&uniplatform=NZKPT&language=CHS)
-
-- 章毅, 吕青, 张蕾, 戚晓峰, 皮勇, 杜正贵, 刘鹏程, 王瑶, 王璟玲, 李季兰, `王晗`, 庞博. 一种乳腺癌检测方法及装置: 四川, CN108230311A[P]. 2018-06-29 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MMYZA88RmH76ZxQLDNeFjFQTUuvthq07RH_QO5P1edo7_HorEZt50RMy9g7hL6wrGa-8ROOTFg5AQeFo-dNHSbHeCzDt7NufQYrcXY9Vmd_pKZJxb0_Eo6Q3A0FDK9kBBBKGxefmoPxlD1SDC0574te6BfI9S90vYU=&uniplatform=NZKPT&language=CHS)
-
 <span class='anchor' id='-funds'></span>
 
 # 💰 基金项目
@@ -97,6 +93,7 @@ redirect_from:
 
 # 💻 工作经历
 - *2023.01 - 2025.03*, 北京望石智慧科技有限公司, 北京
+
 
 
 
