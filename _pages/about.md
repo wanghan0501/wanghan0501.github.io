@@ -39,7 +39,9 @@ redirect_from:
 
 ## 📜 论文
 ---
-- Fan Fan<sup>#</sup>, Bin Xi<sup>#</sup>, Xianghu Meng<sup>#</sup>, `Han Wang`<sup>#</sup>, Bowen Zhang, Qingbo Xu, Wei Feng, Wenfeng Gao, Xiaoman Wang, Yuji Wang, Hongbo Zhang<sup>\*</sup>, Feng Zhou<sup>\*</sup>, Zhenming Liu<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>, Bo Huang<sup>\*</sup>. Assessing Conformation Validity and Rationality of Deep Learning-Generated 3D Molecules[J]. **Nature Communications**, 2026.[[网页]](https://doi.org/10.1038/s41467-026-69303-5)
+- Jun Zhou<sup>#</sup>, Pilei Si<sup>#</sup>, Yan Zhang<sup>#</sup>, Jianqiong Song<sup>#</sup>, Tao He<sup>#</sup>, Qin Liu, Shaoqi Chen, Mengjie Tu, `Han Wang`, Qiang Guo, Xiaofeng Qi, Danli Zhang, Qi Zhang, Tingting Zhang, Linlin Pan, Shilin Li, Zhengzhong Tang, Julie Guo, Haitao Lan, Xue Li, Yan Tang, Min Tang, Qingyang Shen, Haiying Luo， Zhongbing Lang, Xiangqian Hu, Hui Du, Rongmei Tian, Xiaoxue Yang, Xiaoqin Gan, Fang Chen, Xuebin Liu, Wenqin Zhang, Qianrong Xie, Jie Zhang, Hang Yang, Xue Yang, Yuanli Kang, Minghao Xiong, Yuwei Zhang, Hengyan Liu, Meihua Wan, Yu Xiong, Tianhui Li, Chian Zhao, Hong Zhao<sup>\*</sup>, Xinwu Cui<sup>\*</sup>, Zhang Yi<sup>\*</sup>, Fanxin Zeng<sup>\*</sup>. A non-invasive end-to-end intelligent assistance system for breast ultrasound[J]. **Nature Communications**, 2026.
+
+- Fan Fan<sup>#</sup>, Bin Xi<sup>#</sup>, Xianghu Meng<sup>#</sup>, `Han Wang`<sup>#</sup>, Bowen Zhang, Qingbo Xu, Wei Feng, Wenfeng Gao, Xiaoman Wang, Yuji Wang, Hongbo Zhang<sup>\*</sup>, Feng Zhou<sup>\*</sup>, Zhenming Liu<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>, Bo Huang<sup>\*</sup>. Assessing conformation validity and rationality of deep learning-generated 3D molecules[J]. **Nature Communications**, 2026.[[网页]](https://doi.org/10.1038/s41467-026-69303-5)
 
 - Wei Feng<sup>#</sup>, Lvwei Wang<sup>#</sup>, Zaiyun Lin<sup>#</sup>, Yanhao Zhu<sup>#</sup>, `Han Wang`, ianqiang Dong, Rong Bai, Huting Wang, Jielong Zhou, Wei Peng, Bo Huang<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>. Generation of 3D molecules in pockets via a language model[J]. **Nature Machine Intelligence**, 2024, 6(1): 62-73. [[网页]](https://doi.org/10.1038/s42256-023-00775-6)
 
@@ -93,6 +95,7 @@ redirect_from:
 
 # 💻 工作经历
 - *2023.01 - 2025.03*, 北京望石智慧科技有限公司, 北京
+
 
 
 
