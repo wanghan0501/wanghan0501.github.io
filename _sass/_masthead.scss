@@ -64,4 +64,18 @@
   }
 }
 
+.masthead__lang-switch {
+  padding-left: 1em;
+  font-weight: 600;
+
+  .lang-sep {
+    margin: 0 0.3em;
+    color: $muted-text-color;
+  }
+
+  .lang-active {
+    color: $link-color;
+  }
+}
+
 

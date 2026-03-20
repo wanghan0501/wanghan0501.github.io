@@ -13,6 +13,11 @@
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__lang-switch">
+            <a href="/en/">EN</a>
+            <span class="lang-sep">/</span>
+            <a href="/" class="lang-active">中</a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
