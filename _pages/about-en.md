@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='aboutme'></span>
 
-I graduated from Sichuan University (Bachelor, Master, and Ph.D.) under the supervision of Professor Yi Zhang in the College of Computer Science. Currently, I am a postdoctoral fellow at Peking University School of Pharmacy, working with Dr. Zhenming Liu. Including co-authored papers, I have published 10+ academic papers <a href='https://scholar.google.com/citations?user=LcrqNBsAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-Citations-9cf?style=flat&logo=Google%20Scholar&logoColor=9cf&labelColor=f6f6f6"></a> and been granted 10+ national invention patents in China.
+I graduated from Sichuan University (Bachelor, Master, and Ph.D.) under the supervision of Professor Yi Zhang in the College of Computer Science. Currently, I am a postdoctoral fellow at Peking University School of Pharmacy, working with Dr. Zhenming Liu. Including co-authored papers, I have published 10+ academic papers <a href='https://scholar.google.com/citations?user=LcrqNBsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> and been granted 10+ national invention patents in China.
 
 My research interests include:
 - Artificial Intelligence
