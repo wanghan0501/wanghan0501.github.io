@@ -68,6 +68,13 @@
   display: inline;
   padding-left: 1em;
   font-weight: 600;
+  white-space: nowrap;
+
+  a {
+    display: inline !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
 
   .lang-sep {
     margin: 0 0.3em;
