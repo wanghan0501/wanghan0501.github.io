@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "王晗"
 description              : "AI辅助药物发现"
+description_en          : "AI-aided Drug Discovery"
 repository               : "wanghan0501/wanghan0501.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,9 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "王晗"
+  name_en          : "Han Wang"
   avatar           : "/images/android-chrome-512x512.png"
   bio              : "北京大学"
+  bio_en           : "Peking University"
   location         : "北京"
+  location_en      : "Beijing"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LcrqNBsAAAAJ"

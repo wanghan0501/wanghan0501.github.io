@@ -1,20 +1,26 @@
 # main links links
 main:
   - title: "简介"
+    title_en: "About"
     url: "#aboutme"
 
   - title: "教育经历"
+    title_en: "Education"
     url: "#-educations"
 
   - title: "论文专利"
+    title_en: "Publications"
     url: "#-publications"
 
   - title: "基金项目"
+    title_en: "Funds"
     url: "#-funds"
 
   - title: "荣誉奖项"
+    title_en: "Honors"
     url: "#-honors"
 
   - title: "工作经历"
+    title_en: "Experience"
     url: "#-professions"
 

@@ -7,11 +7,11 @@
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             <a href="https://wanghan0501.github.io/" target="_self">
               <img class="svg" src="/images/en.svg" width="20pt"> 
-              HomePage
+              {% if page.url contains '/en/' %}HomePage{% else %}首页{% endif %}
             </a>
           </li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{% if page.url contains '/en/' %}{{ link.title_en }}{% else %}{{ link.title }}{% endif %}</a></li>
           {% endfor %}
           <li class="masthead__menu-item masthead__lang-switch">
             {% if page.url contains '/en/' %}

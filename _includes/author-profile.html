@@ -9,18 +9,18 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <h3 class="author__name">{% if page.url contains '/en/' %}{{ author.name_en }}{% else %}{{ author.name }}{% endif %}</h3>
+    {% if author.bio %}<p class="author__bio">{% if page.url contains '/en/' %}{{ author.bio_en }}{% else %}{{ author.bio }}{% endif %}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+        <li><div style="white-space: normal; margin-bottom: 1em;">{% if page.url contains '/en/' %}{{ site.description_en }}{% else %}{{ site.description }}{% endif %}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {% if page.url contains '/en/' %}{{ author.location_en }}{% else %}{{ author.location }}{% endif %}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

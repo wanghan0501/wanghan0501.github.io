@@ -32,10 +32,10 @@ layout: compress
 <div class="footer_site">
 <hr/>
 <div class="footer_copyright">
-  基于&nbsp
+  {% if page.url contains '/en/' %}Based on{% else %}基于{% endif %}&nbsp
   <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
   acad
-  </a>&nbsp模板
+  </a>&nbsp{% if page.url contains '/en/' %}template{% else %}模板{% endif %}
 </div>
 </div>
   </body>
