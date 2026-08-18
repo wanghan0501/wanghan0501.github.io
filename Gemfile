@@ -16,6 +16,16 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll"
 
+# Security pins for Dependabot alerts. github-pages 232 still
+# accepts these newer patch versions of its transitive deps.
+gem "nokogiri", ">= 1.19.4"
+gem "faraday", ">= 2.14.3"
+gem "concurrent-ruby", ">= 1.3.7"
+gem "addressable", ">= 2.9.0"
+gem "json", ">= 2.19.9"
+gem "rexml", ">= 3.4.2"
+gem "uri", ">= 1.0.4"
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
