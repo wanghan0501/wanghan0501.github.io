@@ -17,12 +17,16 @@ redirect_from:
 
 <span class='anchor' id='aboutme'></span>
 
-I graduated from Sichuan University (Bachelor, Master, and Ph.D.) under the supervision of Professor Yi Zhang in the College of Computer Science. Currently, I am a postdoctoral fellow at Peking University School of Pharmacy, working with Dr. Zhenming Liu. Including co-authored papers, I have published 10+ academic papers <a href='https://scholar.google.com/citations?user=LcrqNBsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> and been granted 10+ national invention patents in China.
+I received my Bachelor's, Master's, and Ph.D. degrees from Sichuan University under the supervision of Professor Yi Zhang (Foreign Academician of the Russian Academy of Engineering, IEEE Fellow, and Founding Fellow of the Chinese Association for Artificial Intelligence) in the College of Computer Science. Currently, I am a postdoctoral fellow at Peking University School of Pharmacy, working with Dr. Zhenming Liu. Including co-authored papers, I have published 10+ academic papers <a href='https://scholar.google.com/citations?user=LcrqNBsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> and been granted 10+ national invention patents in China.
+
+**Research direction: AI-empowered drug discovery**, focusing on molecular generation based on protein target structures and intelligent drug design.
+
+My academic foundation is rooted in Professor Yi Zhang's Machine Intelligence Laboratory at Sichuan University, where I received five years of systematic training in neural networks and developed dual research expertise spanning medical artificial intelligence and drug discovery technology. During my Ph.D., as a core member of the West China Hospital–Sichuan University medical-engineering interdisciplinary team, I led the development of a full-cycle intelligent diagnosis and treatment system for colorectal cancer, covering intelligent-assisted diagnosis, treatment, and prognosis; the system has been trialed at West China Hospital of Sichuan University, Dazhou Central Hospital, and other institutions, giving me hands-on experience in deploying medical AI in real clinical settings. After transitioning to drug discovery, I led the development of 3D molecular generation models based on protein target structures at StoneWise, and the technologies have been commercially validated by companies including Roche and Kelun Pharmaceutical, demonstrating industry-grade R&D capability.
 
 My research interests include:
 - Artificial Intelligence
-- Intelligent Medicine
 - Drug Discovery
+- Intelligent Medicine
 
 <span class='anchor' id='-educations'></span>
 
