@@ -77,9 +77,10 @@ My research interests include:
 <span class='anchor' id='-funds'></span>
 
 # 💰 Research Funding
+- *2027.01-2030.01*, Young Scientists Fund of the National Natural Science Foundation of China (Class C), 300,000 CNY, `PI`.
 - *2026.07.17*, Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation.
-- *2026.01-2028.01*, Multi-scenario adaptive molecular generation method based on protein target structure and its application in intelligent drug design. China Postdoctoral Science Foundation (78th batch), 78,000 CNY, `PI`.
-- *2021.04-2023.03*, Research and development of AI-assisted diagnosis system for colorectal cancer lymph node metastasis. Sichuan Science and Technology Innovation and Entrepreneurship Program, 80,000 CNY, `PI`.
+- *2026.01-2028.01*, China Postdoctoral Science Foundation (78th batch), 80,000 CNY, `PI`.
+- *2021.04-2023.03*, Sichuan Science and Technology Innovation and Entrepreneurship Program, 80,000 CNY, `PI`.
 
 <span class='anchor' id='-honors'></span>
 
