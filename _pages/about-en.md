@@ -78,7 +78,7 @@ My research interests include:
 
 # 💰 Research Funding
 - *2027.01-2030.01*, Young Scientists Fund of the National Natural Science Foundation of China (Class C), 300,000 CNY, `PI`.
-- *2026.07.17*, Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation.
+- *2026.07*, Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation.
 - *2026.01-2028.01*, China Postdoctoral Science Foundation (78th batch), 80,000 CNY, `PI`.
 - *2021.04-2023.03*, Sichuan Science and Technology Innovation and Entrepreneurship Program, 80,000 CNY, `PI`.
 
