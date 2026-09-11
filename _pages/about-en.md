@@ -82,16 +82,6 @@ My research interests include:
 - *2026.01-2027.12*, China Postdoctoral Science Foundation (78th batch), 80,000 CNY, `PI`.
 - *2021.04-2023.03*, Sichuan Science and Technology Innovation and Entrepreneurship Program, 80,000 CNY, `PI`.
 
-<span class='anchor' id='-honors'></span>
-
-# 🏅 Honors & Awards
-- *2021.12* National Graduate Scholarship
-- *2017.11* Outstanding Graduate of Sichuan University Class of 2018
-- *2017.11* Outstanding Student Cadre of Sichuan University, 2016-2017 Academic Year
-- *2016.10* Outstanding Student Cadre of Sichuan University, 2015-2016 Academic Year
-- *2016.09* Gold Award, 2nd Sichuan "Internet+" College Student Innovation and Entrepreneurship Competition
-- *2015.11* Outstanding Student Cadre of Sichuan University, 2014-2015 Academic Year
-
 <span class='anchor' id='-professions'></span>
 
 # 💻 Work Experience
