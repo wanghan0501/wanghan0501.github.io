@@ -20,14 +20,11 @@ redirect_from:
 本硕博均毕业于四川大学，师从计算机学院章毅教授（IEEE Fellow、中国人工智能学会创始会士），现为北京大学药学院在站博士后，合作导师为刘振明研究员（长江学者）。包括合著，已经发表 10+ 篇学术论文
  <a href='https://scholar.google.com/citations?hl=zh-CN&user=LcrqNBsAAAAJ&view_op=list_works&sortby=pubdate'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，申请并获授权 10+ 项国家发明专利。
 
-**研究方向：人工智能赋能药物研发**，聚焦基于蛋白靶标结构的分子生成与智能药物设计。
+**用 AI 看病，也用 AI 造药。** 从看懂一张影像，到设计一个分子：算法应当服务于生命。
 
-我的学术根基植根于四川大学章毅教授机器智能实验室，历经五年神经网络领域的系统训练，形成了贯通医学人工智能与药物研发技术的双重研究优势。博士期间作为华西医院-四川大学医工交叉团队核心成员，主导构建了结直肠癌全周期智能诊疗系统，开展结直肠癌智能辅助诊断、治疗、预后三方面的研究，相关系统平台已在四川大学华西医院、达州市中心医院等机构试用，积累了医疗AI落地的实践经验。转入药物研发领域后，在望石智慧主导开发基于蛋白靶标结构的三维分子生成模型，相关技术已通过罗氏制药、科伦药业等企业的商业化验证，展现了工业级研发能力。
-
-我的研究领域包括：
-- 人工智能
-- 药物设计
-- 智能医学
+- 🏥 **临床落地**：博士期间师从章毅教授，作为华西医院-四川大学医工交叉团队核心成员，主导构建结直肠癌全周期智能诊疗系统（辅助诊断/治疗/预后），已在华西医院、达州市中心医院等机构试用
+- 💊 **工业验证**：在望石智慧主导开发基于蛋白靶标结构的三维分子生成模型，通过罗氏制药、科伦药业商业化验证
+- 🔬 **现在进行时**：北京大学药学院博士后，合作导师刘振明研究员，聚焦蛋白口袋中的三维分子生成——让药物设计成为可计算的问题
 
 <span class='anchor' id='-educations'></span>
 
@@ -43,13 +40,13 @@ redirect_from:
 
 ## 📜 论文
 ---
-- Jun Zhou<sup>#</sup>, Pilei Si<sup>#</sup>, Yan Zhang<sup>#</sup>, Jianqiong Song<sup>#</sup>, Tao He<sup>#</sup>, Qin Liu, Shaoqi Chen, Mengjie Tu, `Han Wang`, Qiang Guo, Xiaofeng Qi, Danli Zhang, Qi Zhang, Tingting Zhang, Linlin Pan, Shilin Li, Zhengzhong Tang, Julie Guo, Haitao Lan, Xue Li, Yan Tang, Min Tang, Qingyang Shen, Haiying Luo， Zhongbing Lang, Xiangqian Hu, Hui Du, Rongmei Tian, Xiaoxue Yang, Xiaoqin Gan, Fang Chen, Xuebin Liu, Wenqin Zhang, Qianrong Xie, Jie Zhang, Hang Yang, Xue Yang, Yuanli Kang, Minghao Xiong, Yuwei Zhang, Hengyan Liu, Meihua Wan, Yu Xiong, Tianhui Li, Chian Zhao, Hong Zhao<sup>\*</sup>, Xinwu Cui<sup>\*</sup>, Zhang Yi<sup>\*</sup>, Fanxin Zeng<sup>\*</sup>. A non-invasive end-to-end intelligent assistance system for breast ultrasound[J]. **Nature Communications**, 2026, 17:7301. [[网页]](https://www.nature.com/articles/s41467-026-73170-5)
+- Jun Zhou<sup>#</sup>, Pilei Si<sup>#</sup>, Yan Zhang<sup>#</sup>, Jianqiong Song<sup>#</sup>, Tao He<sup>#</sup>, Qin Liu, Shaoqi Chen, Mengjie Tu, `Han Wang`, Qiang Guo, Xiaofeng Qi, Danli Zhang, Qi Zhang, Tingting Zhang, Linlin Pan, Shilin Li, Zhengzhong Tang, Julie Guo, Haitao Lan, Xue Li, Yan Tang, Min Tang, Qingyang Shen, Haiying Luo, Zhongbing Lang, Xiangqian Hu, Hui Du, Rongmei Tian, Xiaoxue Yang, Xiaoqin Gan, Fang Chen, Xuebin Liu, Wenqin Zhang, Qianrong Xie, Jie Zhang, Hang Yang, Xue Yang, Yuanli Kang, Minghao Xiong, Yuwei Zhang, Hengyan Liu, Meihua Wan, Yu Xiong, Tianhui Li, Chian Zhao, Hong Zhao<sup>\*</sup>, Xinwu Cui<sup>\*</sup>, Zhang Yi<sup>\*</sup>, Fanxin Zeng<sup>\*</sup>. A non-invasive end-to-end intelligent assistance system for breast ultrasound[J]. **Nature Communications**, 2026, 17:7301. [[网页]](https://www.nature.com/articles/s41467-026-73170-5)
 
 - Fan Fan<sup>#</sup>, Bin Xi<sup>#</sup>, Xianghu Meng<sup>#</sup>, `Han Wang`<sup>#</sup>, Bowen Zhang, Qingbo Xu, Wei Feng, Wenfeng Gao, Xiaoman Wang, Yuji Wang, Hongbo Zhang<sup>\*</sup>, Feng Zhou<sup>\*</sup>, Zhenming Liu<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>, Bo Huang<sup>\*</sup>. Assessing conformation validity and rationality of deep learning-generated 3D molecules[J]. **Nature Communications**, 2026, 17:2481. [[网页]](https://doi.org/10.1038/s41467-026-69303-5)
 
 - Wei Feng<sup>#</sup>, Lvwei Wang<sup>#</sup>, Zaiyun Lin<sup>#</sup>, Yanhao Zhu<sup>#</sup>, `Han Wang`, ianqiang Dong, Rong Bai, Huting Wang, Jielong Zhou, Wei Peng, Bo Huang<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>. Generation of 3D molecules in pockets via a language model[J]. **Nature Machine Intelligence**, 2024, 6(1): 62-73. [[网页]](https://doi.org/10.1038/s42256-023-00775-6)
 
-- `Han Wang`<sup>#</sup>, Dan Jiang<sup>#</sup>, Haixian Zhang, Yujue Wang, Li Yang,<sup>\*</sup> David J Kerr<sup>\*</sup>, Zhang, Yi<sup>\*</sup>. An explainable coarse-to-fine survival analysis method on multi-center whole slide images[J]. **IEEE Transactions on Artificial Intelligence**, 2023, 5(3): 1316-1327. [[网页]](https://doi.org/10.1109/TAI.2023.3285855)
+- `Han Wang`<sup>#</sup>, Dan Jiang<sup>#</sup>, Haixian Zhang, Yujue Wang, Li Yang<sup>\*</sup>, David J Kerr<sup>\*</sup>, Zhang, Yi<sup>\*</sup>. An explainable coarse-to-fine survival analysis method on multi-center whole slide images[J]. **IEEE Transactions on Artificial Intelligence**, 2023, 5(3): 1316-1327. [[网页]](https://doi.org/10.1109/TAI.2023.3285855)
 
 - `Han Wang`<sup>#</sup>, Fasheng Yi<sup>#</sup>, Jingling Wang, Zhang Yi, Haixian Zhang<sup>\*</sup>. RECISTSup: Weakly-supervised Lesion Volume Segmentation using RECIST Measurement[J]. **IEEE Transactions on Medical Imaging**, 2022, 41(7), 1849-1861. [[网页]](https://doi.org/10.1109/TMI.2022.3149168)
 
@@ -59,17 +56,25 @@ redirect_from:
 
 - `Han Wang`<sup>#</sup>, Junjie Hu, Ying Song, Lei Zhang, Sen Bai<sup>\*</sup>, Zhang Yi<sup>\*</sup>. Multi-view fusion segmentation for brain glioma on CT images[J]. **Applied Intelligence**, 2022, 52(7), 7890-7904. [[网页]](https://doi.org/10.1007/s10489-021-02784-7)
 
+## 🧪 预印本
+---
+- `Han Wang`<sup>#</sup>, Guanglong Sun<sup>#</sup>, Bowen Zhang<sup>#</sup>, Yang Wang<sup>#</sup>, Bin Xi<sup>#</sup>, Minjian Yang, Chuanyu Liu, Yuyang Ge, Fan Fan, Wei Feng, Yanhao Zhu, Yang Xiao, Yuji Wang, Zhenming Liu<sup>\*</sup>, Daohua Jiang<sup>\*</sup>, Huting Wang<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>, Bo Huang<sup>\*</sup>. A unified language model bridging de novo and fragment-based 3D molecule design delivers potent CBL-B inhibitors for cancer treatment[J]. **bioRxiv**, 2025. [[网页]](https://doi.org/10.1101/2025.11.13.688260)
+
+- Bin Xi<sup>#</sup>, `Han Wang`<sup>#</sup>, Guanglong Sun<sup>#</sup>, Bowen Zhang<sup>#</sup>, Ruihan Mao, Yuyang Ge, Yang Wang, Jiangtao Zhang, Yiting Pan, Feng Zhou, Yuji Wang, Zhenming Liu, Daohua Jiang, Huting Wang, Wenbiao Zhou, Bo Huang<sup>\*</sup>. Pocket-based molecule generation with an SE(3)-equivariant language model leads to a potent and selective HPK1 inhibitor with *in vivo* efficacy[J]. **bioRxiv**, 2025. [[网页]](https://doi.org/10.1101/2025.09.23.678079)
+
+- Zheng Wang<sup>#</sup>, Tianyi Wang<sup>#</sup>, Haixian Zhang<sup>\*</sup>, Zhenyuan Huang, Chengxi Zhao, Changfu Li, Tiannan Liu, Ding Bai, Xianglong Han<sup>\*</sup>, Hang Zhao<sup>\*</sup>, `Han Wang`<sup>\*</sup>. An SE(3)-equivariant Crystal Structure Prediction Framework for Prospective Identification and Development of Bioactive Nucleoside Self-Assembling Materials[J]. **bioRxiv**, 2026. [[网页]](https://doi.org/10.64898/2026.05.27.728070)
+
 ## 💡 专利
 ---
 - `王晗`, 冯伟, 黄博, 周文彪, 肖洋, 朱彦浩, 董建强. 分子预测模型的训练方法及蛋白质口袋的处理方法: 北京市, CN118824355B[P]. 2025-02-14 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MMF0JaU5HdQD6VN5jWHWFnDTGt7hX-Ziqq93840HbLsTRcBGMVHd6BqKkW6kxDoW6F_5Wu2GAvRuEK32-Jl4fQcf5AC1bPERVqWCAY4NieIrn5IQAAEaoVaOZE913rOMnh4bhyIlhebsLt6-D0CFKU-gWLeVTZ8FRtpFRUJk6aF4A==&uniplatform=NZKPT&language=CHS)
 
 - `王晗`, 江丹, 章毅, 杨丽, 大卫.詹姆斯.克尔, 李欣洋, 张海仙. 癌症预后生存预测方法、系统、计算机设备及存储介质: 四川省, CN115083574B[P]. 2022-12-06 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MPQFNDqPIBe5UoA_oAxibsxSPMf89fXI69iqd2M7uRYy0BAVIRkxUQ3yzJbOzr5eRe1cTLpPReVn5VJzt3HZy7JgKTzKXwmoOmIfB9eeP8jAn_OKe2AgPZfeJfvZF_aEd4ZmCKQyxaqM6DJeEoSnsbji7KgTE1RI7UvDhb7hl6dXg==&uniplatform=NZKPT&language=CHS)
 
-- 田振华, `王晗`, 陶恒. 一种面向化学结构式识别的数据集构建方法和装置: 北京市, CN116721713B[P]. 2023-10-31 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MNluW4jYgXPVLei75PSyfxhAAhKFK2x_Odfx1q-KOffkj2054sshL-ZpnkzWGYQPYcrWBYtbUwYAT2Od-1YgCpXZqkADS_3N-quw7dEWKBnvAUznjZ1YgrxBYbFmUjLnEK_mu1qlrCeZbIr-5CMbEq9dt-Mk3U_U4sSGDWiN3EC8g==&uniplatform=NZKPT&language=CHS)
+- 田振华<sup>#</sup>, `王晗`<sup>#</sup>, 陶恒. 一种面向化学结构式识别的数据集构建方法和装置: 北京市, CN116721713B[P]. 2023-10-31 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MNluW4jYgXPVLei75PSyfxhAAhKFK2x_Odfx1q-KOffkj2054sshL-ZpnkzWGYQPYcrWBYtbUwYAT2Od-1YgCpXZqkADS_3N-quw7dEWKBnvAUznjZ1YgrxBYbFmUjLnEK_mu1qlrCeZbIr-5CMbEq9dt-Mk3U_U4sSGDWiN3EC8g==&uniplatform=NZKPT&language=CHS)
 
 - 刘凌, 章毅, `王晗`, 陈思翰. 癫痫数据统计方法及装置: 四川省, CN109003680B[P]. 2021-04-09 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MOuMljUeyhi-GeSrqDPvw2yVR4YlR2pToXCDx6EJGuReCH411Se2H0CoHt5LjTOdGOUIPnxvIuF8C_pyE-Yy48k-URSfrCQ7sGC1pCQv904VdjVQbJ986RDg4wOrZRp4V7ahoxD6cEfXl7e6gACIbj-PXKJ1qq9bu1BgM0qH3LONA==&uniplatform=NZKPT&language=CHS)
 
-- 章毅, 王自强, `王晗`, 魏明天, 张海仙, 孟文建, 王璟玲, 杨旭洋, 崔俊杰, 黄烁, 黄月瑶, 黄昊, 潘震. 一种基于先验知识的医学图像淋巴结检测方法: 四川省, CN112561912B[P]. 2021-06-01 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MPRy-zF1471caXaSRGBCojCmhTKGAEZdVVObj_cFClVsfKOZXwoJUJugFw_lXm1tXokFwWIBFn30qTgi3j1QpxLfcedgug3bUellyXgpBrMw8f_OE7mtXko8GqRThvYvIFn44u0ZSoKVrtsNYSwCCxszI8dzhC9H9RW4qXXPzPIvg==&uniplatform=NZKPT&language=CHS)
+- 章毅, 王自强<sup>#</sup>, `王晗`<sup>#</sup>, 魏明天, 张海仙, 孟文建, 王璟玲, 杨旭洋, 崔俊杰, 黄烁, 黄月瑶, 黄昊, 潘震. 一种基于先验知识的医学图像淋巴结检测方法: 四川省, CN112561912B[P]. 2021-06-01 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MPRy-zF1471caXaSRGBCojCmhTKGAEZdVVObj_cFClVsfKOZXwoJUJugFw_lXm1tXokFwWIBFn30qTgi3j1QpxLfcedgug3bUellyXgpBrMw8f_OE7mtXko8GqRThvYvIFn44u0ZSoKVrtsNYSwCCxszI8dzhC9H9RW4qXXPzPIvg==&uniplatform=NZKPT&language=CHS)
 
 - 章毅, 王自强, `王晗`, 黄昊, 张海仙, 魏明天, 王璟玲, 邓祥兵, 陈帅华, 崔俊杰. 一种基于深度学习的盆骨及其动脉血管的多层级分割方法: 四川省, CN112489047B[P]. 2021-06-01 [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=2PoR0lTy6MMCm0FBPNJ62W_UrZhx_PW06x0L56itgIufb4qnfJt75vvvnMRNG4jb1JN1pw1g9LX8IbEr58QtvV3gplNVcmLMYUmD7aYdz0pwo3HXPqnPjDB0mWIVbo5XQm1wQ_BfK8KkG9nIt-ESB3tVGpqcpejSeFPJo7svQRfSCNWBY1ZFnA==&uniplatform=NZKPT&language=CHS)
 

@@ -19,14 +19,11 @@ redirect_from:
 
 I received my Bachelor's, Master's, and Ph.D. degrees from Sichuan University under the supervision of Professor Yi Zhang (IEEE Fellow and Founding Fellow of the Chinese Association for Artificial Intelligence) in the College of Computer Science. Currently, I am a postdoctoral fellow at Peking University School of Pharmacy, working with Prof. Zhenming Liu (Changjiang Scholar). Including co-authored papers, I have published 10+ academic papers <a href='https://scholar.google.com/citations?hl=en&user=LcrqNBsAAAAJ&view_op=list_works&sortby=pubdate'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a> and been granted 10+ national invention patents in China.
 
-**Research direction: AI-empowered drug discovery**, focusing on molecular generation based on protein target structures and intelligent drug design.
+**Using AI to diagnose disease, and to design drugs.** From reading a medical image to designing a molecule: algorithms should serve life.
 
-My academic foundation is rooted in Professor Yi Zhang's Machine Intelligence Laboratory at Sichuan University, where I received five years of systematic training in neural networks and developed dual research expertise spanning medical artificial intelligence and drug discovery technology. During my Ph.D., as a core member of the West China Hospital–Sichuan University medical-engineering interdisciplinary team, I led the development of a full-cycle intelligent diagnosis and treatment system for colorectal cancer, covering intelligent-assisted diagnosis, treatment, and prognosis; the system has been trialed at West China Hospital of Sichuan University, Dazhou Central Hospital, and other institutions, giving me hands-on experience in deploying medical AI in real clinical settings. After transitioning to drug discovery, I led the development of 3D molecular generation models based on protein target structures at StoneWise, and the technologies have been commercially validated by companies including Roche and Kelun Pharmaceutical, demonstrating industry-grade R&D capability.
-
-My research interests include:
-- Artificial Intelligence
-- Drug Discovery
-- Intelligent Medicine
+- 🏥 **Clinical deployment**: During my Ph.D. under Prof. Yi Zhang, as a core member of the West China Hospital–Sichuan University medical-engineering interdisciplinary team, I led the development of a full-cycle intelligent diagnosis and treatment system for colorectal cancer (assisted diagnosis / treatment / prognosis), trialed at West China Hospital of Sichuan University, Dazhou Central Hospital, and other institutions
+- 💊 **Industrial validation**: At StoneWise, I led the development of 3D molecular generation models based on protein target structures, commercially validated by Roche and Kelun Pharmaceutical
+- 🔬 **Ongoing**: Postdoctoral fellow at Peking University School of Pharmacy, working with Prof. Zhenming Liu, focusing on 3D molecule generation in protein pockets — making drug design a computable problem
 
 <span class='anchor' id='-educations'></span>
 
@@ -57,6 +54,14 @@ My research interests include:
 - `Han Wang`<sup>#</sup>, Haixian Zhang, Junjie Hu, Ying Song, Sen Bai<sup>\*</sup>, Zhang Yi<sup>\*</sup>. DeepEC: An error correction framework for dose prediction and organ segmentation using deep neural networks. **International Journal of Intelligent Systems**, 2020, 35(12), 1987-2008. [[Link]](https://doi.org/10.1002/int.22280)
 
 - `Han Wang`<sup>#</sup>, Junjie Hu, Ying Song, Lei Zhang, Sen Bai<sup>\*</sup>, Zhang Yi<sup>\*</sup>. Multi-view fusion segmentation for brain glioma on CT images. **Applied Intelligence**, 2022, 52(7), 7890-7904. [[Link]](https://doi.org/10.1007/s10489-021-02784-7)
+
+## 🧪 Preprints
+---
+- `Han Wang`<sup>#</sup>, Guanglong Sun<sup>#</sup>, Bowen Zhang<sup>#</sup>, Yang Wang<sup>#</sup>, Bin Xi<sup>#</sup>, Minjian Yang, Chuanyu Liu, Yuyang Ge, Fan Fan, Wei Feng, Yanhao Zhu, Yang Xiao, Yuji Wang, Zhenming Liu<sup>\*</sup>, Daohua Jiang<sup>\*</sup>, Huting Wang<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>, Bo Huang<sup>\*</sup>. A unified language model bridging de novo and fragment-based 3D molecule design delivers potent CBL-B inhibitors for cancer treatment. **bioRxiv**, 2025. [[Link]](https://doi.org/10.1101/2025.11.13.688260)
+
+- Bin Xi<sup>#</sup>, `Han Wang`<sup>#</sup>, Guanglong Sun<sup>#</sup>, Bowen Zhang<sup>#</sup>, Ruihan Mao, Yuyang Ge, Yang Wang, Jiangtao Zhang, Yiting Pan, Feng Zhou, Yuji Wang, Zhenming Liu, Daohua Jiang, Huting Wang, Wenbiao Zhou, Bo Huang<sup>\*</sup>. Pocket-based molecule generation with an SE(3)-equivariant language model leads to a potent and selective HPK1 inhibitor with *in vivo* efficacy. **bioRxiv**, 2025. [[Link]](https://doi.org/10.1101/2025.09.23.678079)
+
+- Zheng Wang<sup>#</sup>, Tianyi Wang<sup>#</sup>, Haixian Zhang<sup>\*</sup>, Zhenyuan Huang, Chengxi Zhao, Changfu Li, Tiannan Liu, Ding Bai, Xianglong Han<sup>\*</sup>, Hang Zhao<sup>\*</sup>, `Han Wang`<sup>\*</sup>. An SE(3)-equivariant Crystal Structure Prediction Framework for Prospective Identification and Development of Bioactive Nucleoside Self-Assembling Materials. **bioRxiv**, 2026. [[Link]](https://doi.org/10.64898/2026.05.27.728070)
 
 ## 💡 Patents
 ---
