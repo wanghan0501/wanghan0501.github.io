@@ -57,6 +57,8 @@ I received my Bachelor's, Master's, and Ph.D. degrees from Sichuan University un
 
 ## 🧪 Preprints
 ---
+- `Han Wang`<sup>#</sup>, Dehua Lu<sup>#,\*</sup>, Weiping Lyu<sup>#</sup>, Siyu Xiu<sup>#</sup>, Cheng Shi<sup>#</sup>, Xiaonan Zhou, Bin Xi, Wei Feng, Yang Xiao, Yanming Chen, Haixian Zhang, Qi Li, Bo Huang<sup>\*</sup>, Zhenming Liu<sup>\*</sup>. A closed-loop reinforcement learning framework for rapid compound directed optimization. **bioRxiv**, 2026. [[Link]](https://doi.org/10.64898/2026.08.24.745890)
+
 - `Han Wang`<sup>#</sup>, Guanglong Sun<sup>#</sup>, Bowen Zhang<sup>#</sup>, Yang Wang<sup>#</sup>, Bin Xi<sup>#</sup>, Minjian Yang, Chuanyu Liu, Yuyang Ge, Fan Fan, Wei Feng, Yanhao Zhu, Yang Xiao, Yuji Wang, Zhenming Liu<sup>\*</sup>, Daohua Jiang<sup>\*</sup>, Huting Wang<sup>\*</sup>, Wenbiao Zhou<sup>\*</sup>, Bo Huang<sup>\*</sup>. A unified language model bridging de novo and fragment-based 3D molecule design delivers potent CBL-B inhibitors for cancer treatment. **bioRxiv**, 2025. [[Link]](https://doi.org/10.1101/2025.11.13.688260)
 
 - Bin Xi<sup>#</sup>, `Han Wang`<sup>#</sup>, Guanglong Sun<sup>#</sup>, Bowen Zhang<sup>#</sup>, Ruihan Mao, Yuyang Ge, Yang Wang, Jiangtao Zhang, Yiting Pan, Feng Zhou, Yuji Wang, Zhenming Liu, Daohua Jiang, Huting Wang, Wenbiao Zhou, Bo Huang<sup>\*</sup>. Pocket-based molecule generation with an SE(3)-equivariant language model leads to a potent and selective HPK1 inhibitor with *in vivo* efficacy. **bioRxiv**, 2025. [[Link]](https://doi.org/10.1101/2025.09.23.678079)
