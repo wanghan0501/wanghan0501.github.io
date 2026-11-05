@@ -1,0 +1,4 @@
+jsonpickle
+scholarly==1.7.11
+httpx[socks]
+bibtexparser==1.4.3
