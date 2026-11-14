@@ -1,0 +1,91 @@
+{
+  "citedby": 380,
+  "name": "Han Wang",
+  "updated": "2026-11-14 14:54:21",
+  "publications": {
+    "LcrqNBsAAAAJ:IWHjjKOFINEC": {
+      "num_citations": 136,
+      "title": "TransUNet+: Redesigning the skip connection to enhance features in medical image segmentation"
+    },
+    "LcrqNBsAAAAJ:isC4tDSrTZIC": {
+      "num_citations": 110,
+      "title": "Generation of 3D molecules in pockets via a language model"
+    },
+    "LcrqNBsAAAAJ:YOwf2qJgpHMC": {
+      "num_citations": 30,
+      "title": "DeepEC: An error correction framework for dose prediction and organ segmentation using deep neural networks"
+    },
+    "LcrqNBsAAAAJ:Wp0gIr-vW9MC": {
+      "num_citations": 27,
+      "title": "Deep learning radiomics model related with genomics phenotypes for lymph node metastasis prediction in colorectal cancer"
+    },
+    "LcrqNBsAAAAJ:QIV2ME_5wuYC": {
+      "num_citations": 18,
+      "title": "RECISTSup: Weakly-supervised Lesion Volume Segmentation using RECIST Measurement"
+    },
+    "LcrqNBsAAAAJ:qxL8FJ1GzNcC": {
+      "num_citations": 17,
+      "title": "An Intelligent System of Pelvic Lymph Node Detection"
+    },
+    "LcrqNBsAAAAJ:TQgYirikUcIC": {
+      "num_citations": 15,
+      "title": "Multi-view fusion segmentation for brain glioma on CT images"
+    },
+    "LcrqNBsAAAAJ:k_IJM867U9cC": {
+      "num_citations": 6,
+      "title": "An explainable coarse-to-fine survival analysis method on multi-center whole slide images"
+    },
+    "LcrqNBsAAAAJ:bEWYMUwI8FkC": {
+      "num_citations": 4,
+      "title": "Assessing conformation validity and rationality of deep learning-generated 3D molecules"
+    },
+    "LcrqNBsAAAAJ:e5wmG9Sq2KIC": {
+      "num_citations": 3,
+      "title": "A unified language model bridging de novo and fragment-based 3D molecule design delivers potent CBL-B inhibitors for cancer treatment"
+    },
+    "LcrqNBsAAAAJ:9ZlFYXVOiuMC": {
+      "num_citations": 3,
+      "title": "A prior-based method for colorectal lymph node region classification via deep neural network"
+    },
+    "LcrqNBsAAAAJ:mVmsd5A6BfQC": {
+      "num_citations": 3,
+      "title": "Multi-context 3D ResNet for small-size false positive reduction in pelvic lymph node detection"
+    },
+    "LcrqNBsAAAAJ:maZDTaKrznsC": {
+      "num_citations": 2,
+      "title": "An SE (3) Equivariant Unified Multi-Modal Framework for Protein-Ligand Interaction Prediction"
+    },
+    "LcrqNBsAAAAJ:HDshCWvjkbEC": {
+      "num_citations": 2,
+      "title": "北京市水资源安全水平动态模型的构建与评估"
+    },
+    "LcrqNBsAAAAJ:TFP_iSt0sucC": {
+      "num_citations": 1,
+      "title": "A non-invasive end-to-end intelligent assistance system for breast ultrasound"
+    },
+    "LcrqNBsAAAAJ:R3hNpaxXUhUC": {
+      "num_citations": 1,
+      "title": "Pocket-based molecule generation with an SE(3)-equivariant language model leads to a potent and selective HPK1 inhibitor with in vivo efficacy"
+    },
+    "LcrqNBsAAAAJ:hC7cP41nSMkC": {
+      "num_citations": 1,
+      "title": "An attention-based neural network model for automatic partition of abdominal lymph nodes in CT imaging"
+    },
+    "LcrqNBsAAAAJ:dhFuZR0502QC": {
+      "num_citations": 1,
+      "title": "TeachMe: a web-based teaching system for annotating abdominal lymph nodes"
+    },
+    "LcrqNBsAAAAJ:JV2RwH3_ST0C": {
+      "num_citations": 0,
+      "title": "A closed-loop reinforcement learning framework for rapid compound directed optimization"
+    },
+    "LcrqNBsAAAAJ:iH-uZ7U-co4C": {
+      "num_citations": 0,
+      "title": "AI-Driven Discovery of a Hydrophobic-Tag Degrader Targeting NSD3 for Lung Squamous Carcinoma Therapy"
+    },
+    "LcrqNBsAAAAJ:4JMBOYKVnBMC": {
+      "num_citations": 0,
+      "title": "An SE(3)-equivariant Crystal Structure Prediction Framework for Prospective Identification and Development of Bioactive Nucleoside Self-Assembling Materials"
+    }
+  }
+}
